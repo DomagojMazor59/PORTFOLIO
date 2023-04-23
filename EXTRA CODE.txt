@@ -1,0 +1,47 @@
+EXTRA CODE 
+SIDE TEXT 
+LEFT
+HTLM 5
+<p class="vertical-text1">MAKE IT</p>
+<p class="vertical-text2">HAPPEN</p> 
+
+
+
+
+
+
+
+
+
+CSS
+  .vertical-text1 {
+writing-mode: vertical-rl;
+color: #ffffff;
+font-size: 40px;
+Font-family: 'Assistant', sans-serif;
+font-family: 'Roboto', sans-serif;
+writing-mode: vertical-rl;
+  text-orientation: upright;
+  white-space: nowrap;
+  transform: translateY(-15%);
+  margin-left: 80px;
+  font-weight: 600;
+  letter-spacing: 6PX;
+  margin-right: -5px;
+  }
+
+  .vertical-text2 {
+	writing-mode: vertical-rl;
+	color: #ffffff;
+	font-size: 40px;
+	Font-family: 'Assistant', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	writing-mode: vertical-rl;
+	  text-orientation: upright;
+	  white-space: nowrap;
+	  transform: translatex(-20%);
+	  font-weight: 600;
+	  letter-spacing: 6PX;
+	  transform: translateY(15%);
+
+	  }
